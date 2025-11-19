@@ -8,11 +8,8 @@ const Navbar = () => {
 
   const navLinks = [
     { path: '/', label: 'Home' },
-    { path: '/ai-analysis', label: 'AI Analysis' },
-    { path: '/soil', label: 'Soil' },
-    { path: '/crops', label: 'Crops' },
+    { path: '/soil', label: 'Soil Health' },
     { path: '/weather', label: 'Weather' },
-    { path: '/fertilizer', label: 'Fertilizer' },
     { path: '/market', label: 'Market' },
   ]
 
